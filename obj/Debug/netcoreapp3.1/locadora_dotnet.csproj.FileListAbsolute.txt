@@ -1,0 +1,11 @@
+C:\Users\thiago.falcao.ALUNOS\locadora_dotnet\bin\Debug\netcoreapp3.1\locadora_dotnet.exe
+C:\Users\thiago.falcao.ALUNOS\locadora_dotnet\bin\Debug\netcoreapp3.1\locadora_dotnet.deps.json
+C:\Users\thiago.falcao.ALUNOS\locadora_dotnet\bin\Debug\netcoreapp3.1\locadora_dotnet.runtimeconfig.json
+C:\Users\thiago.falcao.ALUNOS\locadora_dotnet\bin\Debug\netcoreapp3.1\locadora_dotnet.runtimeconfig.dev.json
+C:\Users\thiago.falcao.ALUNOS\locadora_dotnet\bin\Debug\netcoreapp3.1\locadora_dotnet.dll
+C:\Users\thiago.falcao.ALUNOS\locadora_dotnet\bin\Debug\netcoreapp3.1\locadora_dotnet.pdb
+C:\Users\thiago.falcao.ALUNOS\locadora_dotnet\obj\Debug\netcoreapp3.1\locadora_dotnet.csprojAssemblyReference.cache
+C:\Users\thiago.falcao.ALUNOS\locadora_dotnet\obj\Debug\netcoreapp3.1\locadora_dotnet.AssemblyInfoInputs.cache
+C:\Users\thiago.falcao.ALUNOS\locadora_dotnet\obj\Debug\netcoreapp3.1\locadora_dotnet.AssemblyInfo.cs
+C:\Users\thiago.falcao.ALUNOS\locadora_dotnet\obj\Debug\netcoreapp3.1\locadora_dotnet.dll
+C:\Users\thiago.falcao.ALUNOS\locadora_dotnet\obj\Debug\netcoreapp3.1\locadora_dotnet.pdb
